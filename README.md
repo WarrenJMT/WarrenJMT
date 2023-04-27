@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @WarrenJMT
+- 👋 Hi, I’m Warren
 - 👀 I’m interested in back end software development!
 - 🌱 I’m currently learning python and django.
 - 💞️ I’m looking to collaborate on anything for juniors.
