@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Warren
-- 👀 I’m interested in learning and software development!
+- 👋 Hi, I’m Warren. I'm currently pursuing a BSc in Computer Science.
+- 👀 I’m interested in learning software development.
 - 🌱 I’m currently getting familiar with Java & Python.
 - 💞️ I’m looking to collaborate on anything for juniors.
 - 📫 How to reach me: warrentarry123@gmail.com
